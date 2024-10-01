@@ -57,9 +57,14 @@ I would love to expand my social circle and connect with those with similar hobb
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=dunix241&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dunix241&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dunix241&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunix241&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub streak Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dunix241&theme=dark&hide_border=false&include_all_commits=false&count_private=true&line_height=22" alt="GitHub streak Card" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dunix241&theme=dark&hide_border=false" alt="GitHub streak Card" />
+</p>
 
 <!--
 ### ✍️ Random Dev Quote
