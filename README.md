@@ -1,13 +1,15 @@
 
 # Dunix
-👋 Hi there! I'm a passionate software engineer living in Vietnam. I love writing clean code, building helpful tools to make our lives easier, and contributing to open-source. I am always eager to explore and learn new technologies and embrace new challenges. I have a positive attitude, so I always try to take everything with a smile and stay hopeful in difficult times.
+👋 Hi there! I'm a passionate software engineer living in Vietnam 🇻🇳. I love writing clean code, building helpful tools to make our lives easier, and contributing to open-source. I am always eager to explore and learn new technologies and embrace new challenges. I have a positive attitude, so I always try to take everything with a smile and stay hopeful in difficult times.
 
 I would love to expand my social circle and connect with those with similar hobbies and those whose lives become meaningless after three days without programming.
+
+Also, I use Arch and Neovim btw.
 
 ## Rapidfire
 - 🚀  Hobbies: coding, configuring Neovim, developing Neovim plugins, and weight lifting
 - ⚡ Fun fact: I often travel with a 2-liter water bottle 🧴, a 5 meter 8-outlet power strip 🔌, a 16" gaming laptop 💻 with a brick-sized charger 🧱, a mechanical keyboard ⌨, and never forget a wrist rest 🤚 - oops I think my back just hurt again typing this 💁
-- 💭 My favorite quote: "The simple things are also the most extraordinary things, and only the wise can see them." ― Paulo Coelho
+- 💭 Favorite quote: "The simple things are also the most extraordinary things, and only the wise can see them." ― Paulo Coelho
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/datcit241) 
