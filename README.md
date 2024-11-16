@@ -4,7 +4,7 @@
 
 I would love to expand my social circle and connect with those with similar hobbies and those whose lives become meaningless after three days without programming.
 
-Also, I use Arch and Neovim btw.
+Uhmm couldn't forget this I use Arch and Neovim btw 😎.
 
 ## Rapidfire
 - 🚀  Hobbies: coding, configuring Neovim, developing Neovim plugins, and weight lifting
@@ -51,7 +51,7 @@ Also, I use Arch and Neovim btw.
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 💻 IDEs/Editors
+## 📝 IDEs/Editors
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
