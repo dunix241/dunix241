@@ -4,11 +4,11 @@
 
 I would love to expand my social circle and connect with those with similar hobbies and those whose lives become meaningless after three days without programming.
 
-Uhmm couldn't forget this I use Arch and Neovim btw 😎.
+Uhmm, can't forget to mention—I use Arch and Neovim, by the way. 😎"
 
 ## Rapidfire
 - 🚀  Hobbies: coding, configuring Neovim, developing Neovim plugins, and weight lifting
-- ⚡ Fun fact: I often travel with a 2-liter water bottle 🧴, a 5 meter 8-outlet power strip 🔌, a 16" gaming laptop 💻 with a brick-sized charger 🧱, a mechanical keyboard ⌨, and never forget a wrist rest 🤚 - oops I think my back just hurt again typing this 💁
+- ⚡ Fun fact: I often travel with a 2-liter water bottle 🧴, a 5-meter 8-outlet power strip 🔌, a 16" gaming laptop 💻 with a brick-sized charger 🧱, a mechanical keyboard ⌨, and never forget a wrist rest 🤚 - oops I think my back just hurt again typing this 💁
 - 💭 Favorite quote: "The simple things are also the most extraordinary things, and only the wise can see them." ― Paulo Coelho
 
 ## 🌐 Socials
